@@ -1,5 +1,4 @@
 {
-  {
   "c2array": true,
   "size": [6, 1, 2],
   "data": [
@@ -11,5 +10,6 @@
     [["Entonces ábrelo… y deja que la historia te encuentre.", "Abuelo"]]
   ]
 }
+
 
 
