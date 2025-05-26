@@ -1,5 +1,5 @@
 {
-  "matriz_c2": verdadero,
+  "matriz_c2": true,
   "tamaño": [6, 1, 2],
   "datos": [
     [["Abuelo… ¿alguna vez has sentido que hay cosas que no nos han contado?", "Niño"]],
@@ -10,3 +10,4 @@
     [["Entonces ábrelo… y deja que la historia te encuentre.", "Abuelo"]]
   ]
 }
+
