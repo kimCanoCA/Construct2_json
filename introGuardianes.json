@@ -1,7 +1,8 @@
 {
-  "matriz_c2": true,
-  "tamaño": [6, 1, 2],
-  "datos": [
+  {
+  "c2array": true,
+  "size": [6, 1, 2],
+  "data": [
     [["Abuelo… ¿alguna vez has sentido que hay cosas que no nos han contado?", "Niño"]],
     [["Muchas veces, pequeño. Las respuestas que buscas no siempre están en lo que otros dicen...", "Abuelo"]],
     [["¿Entonces dónde están?", "Niño"]],
