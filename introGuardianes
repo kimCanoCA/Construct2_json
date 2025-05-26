@@ -1,1 +1,12 @@
-
+{
+  "matriz_c2": verdadero,
+  "tamaño": [6, 1, 2],
+  "datos": [
+    [["Abuelo… ¿alguna vez has sentido que hay cosas que no nos han contado?", "Niño"]],
+    [["Muchas veces, pequeño. Las respuestas que buscas no siempre están en lo que otros dicen...", "Abuelo"]],
+    [["¿Entonces dónde están?", "Niño"]],
+    [["En este libro. Aquí se guardan secretos que han sido olvidados por el tiempo…", "Abuelo"]],
+    [["Estoy listo.", "Niño"]],
+    [["Entonces ábrelo… y deja que la historia te encuentre.", "Abuelo"]]
+  ]
+}
