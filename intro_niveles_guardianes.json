@@ -1,0 +1,21 @@
+{
+  "c2array": true,
+  "size": [3, 3, 2],
+  "data": [
+    [
+      ["Altiplano andino, siglos antes de la colonización", "Libro Mentor"],
+      ["Bienvenido, Guardián. Has llegado a una era ancestral, donde la tierra era sagrada y el tiempo fluía con la naturaleza.", "Libro Mentor"],
+      ["Esta aldea conserva secretos de gran poder. Escucha el susurro del viento, él te mostrará el camino.", "Libro Mentor"]
+    ],
+    [
+      ["Cartagena de Indias, siglo XVII", "Libro Mentor"],
+      ["Ahora caminas por Cartagena, durante el dominio español. Los muros de piedra ocultan más que baluartes.", "Libro Mentor"],
+      ["Aquí se protege un fragmento del tiempo. Los colonos desconfían, y los soldados están alertas. Sé sigiloso, Guardián.", "Libro Mentor"]
+    ],
+    [
+      ["Territorio en rebelión, inicios del siglo XIX", "Libro Mentor"],
+      ["Los gritos de libertad estremecen la tierra. Los pueblos se han levantado, las cadenas caen... pero el precio es alto.", "Libro Mentor"],
+      ["En este tiempo de fuego y esperanza, tu deber es proteger la verdad del pasado.", "Libro Mentor"]
+    ]
+  ]
+}
