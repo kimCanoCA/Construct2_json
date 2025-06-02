@@ -1,15 +1,14 @@
 {
   "c2array": true,
-  "size": [9, 1, 2],
+  "size": [7, 1, 2],
   "data": [
     [["¿Entonces ya terminó la historia?", "Niño"]],
     [["Sí, esta aventura ha llegado a su fin. Pero dime… ¿qué descubriste en tu viaje como guardián del pasado?", "Abuelo"]],
-    [["Viajé a los momentos más importantes de nuestra historia. Estuve donde se firmó el Acta de Independencia, y la protegí como símbolo de libertad.Encontré la espada de Simón Bolívar, símbolo de lucha y esperanza.", "Niño"]],
-    [["También recorrí un antiguo pueblo indígena, donde recuperé un barco ceremonial y una máscara de oro sagrada.", "Niño"]],
-    [["Y en Cartagena, entre sus murallas y secretos, hallé un mapa antiguo y la bandera de Colombia.", "Niño"]],
-    [["Has hecho un viaje que pocos podrían imaginar. No solo cruzaste el tiempo, también comprendiste el valor de nuestras raíces y lo que significa protegerlas.", "Abuelo"]],
+    [["Viajé por nuestra historia: protegí el Acta de Independencia, la espada de Bolívar, un barco y una máscara de oro indígena, un mapa y la bandera en Cartagena.", "Niño"]],
+    [["Has hecho un viaje que pocos podrían imaginar. No solo cruzaste el tiempo, también protegiste nuestras raíces.", "Abuelo"]],
     [["¿Y ahora qué hago con todo eso?", "Niño"]],
-    [["Llévalo contigo. Porque las verdaderas historias no terminan al cerrar un libro… viven en quienes las recuerdan, las honran y las comparten.", "Abuelo"]],
+    [["Llévalo contigo. Las verdaderas historias viven en quienes las recuerdan y las comparten.", "Abuelo"]],
     [["Entonces… seguiré siendo un guardián, abuelo. El pasado no se olvida.", "Niño"]]
   ]
 }
+
